@@ -7,7 +7,7 @@ Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), and Gabo
 
 The experimental results of all 16 variants are shown in the tables below.
 
-<img src="https://user-images.githubusercontent.com/60749950/134399116-2b983bab-2c3c-4ff6-990e-278f88834b6f.png" width="300" height="500"> <img src="https://user-images.githubusercontent.com/60749950/134398407-3aba83b0-95f3-4850-a3c2-5b358b27265c.png" width="300" height="500"> <img src="https://user-images.githubusercontent.com/60749950/134398487-eafca0b0-640a-4dae-8b37-59815d37f2b2.png" width="300" height="500"> <img src="https://user-images.githubusercontent.com/60749950/134398539-1fd37deb-d2a1-45dc-b963-0c2d9aabdee2.png" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/60749950/134399116-2b983bab-2c3c-4ff6-990e-278f88834b6f.png" width="400" height="600"> <img src="https://user-images.githubusercontent.com/60749950/134398407-3aba83b0-95f3-4850-a3c2-5b358b27265c.png" width="400" height="600"> <img src="https://user-images.githubusercontent.com/60749950/134398487-eafca0b0-640a-4dae-8b37-59815d37f2b2.png" width="400" height="600"> <img src="https://user-images.githubusercontent.com/60749950/134398539-1fd37deb-d2a1-45dc-b963-0c2d9aabdee2.png" width="400" height="600">
 
 The best overall model chosen for the health prediction system user interface is the LBP+NN model, with the highest average testing accuracy of 76.84% in the second-level classification. It also performed considerably well in the first-level classification with lesser overfitting than the other models with similar performances, as it obtained 94.38% and 86.87% of average training and testing accuracies, respectively.
 
