@@ -1,5 +1,6 @@
 # Health Prediction System Using Facial Features
-  Ever since the outbreak of Coronavirus in late 2019, many things have
+
+Ever since the outbreak of Coronavirus in late 2019, many things have
 changed. COVID-19 is a disease that spreads very easily and quickly. In order to
 control the spread of this disease, early diagnosis is immensely important to contain
 the virus. Three of the most common early symptoms found in COVID-19 patients
@@ -9,7 +10,7 @@ it is tedious for one to detect if a group of people possess these symptoms on a
 to-case basis. It is time-consuming and expensive for this task to be done manually
 by humans.
 
-  Therefore, the idea of a health prediction system using facial features is
+Therefore, the idea of a health prediction system using facial features is
 proposed to automate this process and increase its efficiency. The proposed health
 prediction system takes facial images as input and predicts whether the person in the
 image is healthy or ill with fever, sore throat or running nose. This project is
@@ -20,3 +21,5 @@ user interface. The feature extraction methods used are Local Binary Pattern (LB
 Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), and
 Gabor filter. The classifiers used are Support Vector Machine (SVM), Neural
 Network (NN), k-Nearest Neighbours (KNN), and Random Forest (RF).
+
+The best overall model chosen for the health prediction system user interface is the LBP+NN model, with the highest average testing accuracy of 76.84% in the second-level classification. It also performed considerably well in the first-level classification with lesser overfitting than the other models with similar performances, as it obtained 94.38% and 86.87% of average training and testing accuracies, respectively.
