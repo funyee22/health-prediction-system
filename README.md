@@ -6,6 +6,7 @@ The proposed health prediction system takes facial images as input and predicts 
 Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA), and Gabor filter. The classifiers used are Support Vector Machine (SVM), Neural Network (NN), k-Nearest Neighbours (KNN), and Random Forest (RF).
 
 The experimental results of all 16 variants are shown in the tables below.
+
 <img src="https://user-images.githubusercontent.com/60749950/134399116-2b983bab-2c3c-4ff6-990e-278f88834b6f.png" width="300" height="500">
 <img src="https://user-images.githubusercontent.com/60749950/134398407-3aba83b0-95f3-4850-a3c2-5b358b27265c.png" width="300" height="500">
 <img src="https://user-images.githubusercontent.com/60749950/134398487-eafca0b0-640a-4dae-8b37-59815d37f2b2.png" width="300" height="500">
